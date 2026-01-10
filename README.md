@@ -55,4 +55,10 @@ Instale as dependências: pip install -r requirements.txt
 Execute o Streamlit: streamlit run api.py
 
 📊 Monitoramento e Interface
+
 A interface do Streamlit permite monitorar o desempenho do modelo através de um gráfico comparativo entre o Preço Real e a Previsão. Se as linhas divergirem drasticamente, o usuário pode utilizar o botão de "Treinar" para atualizar o modelo com dados mais recentes.
+
+
+**Aviso**
+Caso não rodar, me chame por favor. 
+E tento explicar da melhor forma possível. 
